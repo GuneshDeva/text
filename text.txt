@@ -11,3 +11,10 @@ git add fileName.txt .(For Single file)
 git add * .   (for multiple files)
 
 git status
+
+
+git branch  ( * main)
+
+git switch master
+
+dir
