@@ -12,9 +12,11 @@ git add * .   (for multiple files)
 
 git status
 
+When you not get the files in the Clone Folder
 
 git branch  ( * main)
 
 git switch master
 
 dir
+
