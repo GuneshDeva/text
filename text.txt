@@ -1,0 +1,13 @@
+Hello World
+
+
+git init
+
+git status
+
+
+git add fileName.txt .(For Single file)
+
+git add * .   (for multiple files)
+
+git status
